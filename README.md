@@ -46,11 +46,14 @@ Once the SDK is imported, you can clone this repository and **drag the provided 
 
 ---
 
-# Credits / Attribution
+# Authors
 
-This project was developed by:
+**O-VR Hear Team**  
+- Ram David M. Brodett  
+- Peter Jan B. David  
+- Ghee Kaye S. Lopez  
+- Lee Brien V. Sandoval  
 
-* Brodett, Ram David
-* David, Peter Jan
-* Lopez, Ghee Kaye
-* Sandoval, Lee Brien
+**Adviser:** Jordan Aiko P. Deja
+
+Special thanks to our thesis advisor and the faculty for their guidance and support throughout this research.
