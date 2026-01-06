@@ -1,6 +1,6 @@
 # OVR-Hear-Forms
 
-This project repository holds the **Unity prefab** for research questionnaire forms designed for VR environments.
+This project repository holds the **Unity prefab** for the dynamic research questionnaire forms designed for VR environments.
 
 ---
 
